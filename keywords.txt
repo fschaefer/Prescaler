@@ -1,0 +1,40 @@
+#######################################
+# Syntax Coloring Map For Prescaler
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setClockPrescaler	KEYWORD2
+getClockPrescaler	KEYWORD2
+getClockDivisionFactor	KEYWORD2
+trueMillis	KEYWORD2
+trueDelay	KEYWORD2
+rescaleDuration	KEYWORD2
+rescaleTime	KEYWORD2
+
+######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+CLOCK_PRESCALER_1	LITERAL1
+CLOCK_PRESCALER_2	LITERAL1
+CLOCK_PRESCALER_4	LITERAL1
+CLOCK_PRESCALER_8	LITERAL1
+CLOCK_PRESCALER_16	LITERAL1
+CLOCK_PRESCALER_32	LITERAL1
+CLOCK_PRESCALER_64	LITERAL1
+CLOCK_PRESCALER_128	LITERAL1
+CLOCK_PRESCALER_256	LITERAL1
+
+
+
